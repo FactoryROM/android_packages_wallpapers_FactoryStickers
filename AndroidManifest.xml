@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.th.XenonHDWallpapers">
+      package="com.factoryrom.factorystickers">
 
       <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
-    <application android:label="@string/app_name" android:icon="@drawable/xehd">
+    <application android:label="@string/app_name" android:icon="@drawable/factorystick">
         <activity
             android:name="wallpaper"
             android:label="@string/app_name"
-            android:icon="@drawable/xehd"
+            android:icon="@drawable/factorystick"
             android:screenOrientation="nosensor"
             android:finishOnCloseSystemDialogs="true">
             <intent-filter>
