@@ -17,49 +17,29 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-		<item>xehdgraphite</item>
-		<item>xehdflat</item>
-		<item>iaf</item>
-		<item>iaf2</item>
-		<item>android</item>
-		<item>androidgreen</item>
-		<item>astoundingcolors</item>
-		<item>solar</item>
-		<item>iaf10</item>
-        <item>iaf12</item>
-		<item>xenonhd1</item>
-		<item>xenonhd2</item>
-		<item>xenonhd3</item>
-		<item>xenonhd4</item>
-		<item>xenon5</item>
-		<item>xenon6</item>
-		<item>xenon7</item>
-		<item>xenon8</item>
-		<item>xenon9</item>
-		<item>xenon10</item>
-		
+		<item>wallpaper1</item>
+		<item>wallpaper2</item>
+		<item>wallpaper3</item>
+		<item>wallpaper4</item>
+		<item>wallpaper5</item>
+		<item>wallpaper6</item>
+		<item>wallpaper7</item>
+		<item>wallpaper8</item>
+		<item>wallpaper9</item>
+                <item>wallpaper10</item>
+			
    		</string-array>
 
     <string-array name="info" translatable="false">
-    	<item>XeHD Graphite :: JaiThemes</item>
-		<item>XeHD Flat :: JaiThemes</item>
-		<item>iceandfire :: Zpecter</item>
-        <item>Colors :: Zpecter</item>
-        <item>Android Rush :: Adam80460</item>
-        <item>Android Green :: Adam80460</item>
-        <item>Astounding Colors :: Unknown</item>
-        <item>Solar :: Adam80460</item>
-        <item>Carbon Fibre :: Zpecter</item>
-        <item>Lines :: Zpecter</item>
-		<item>XenonHD :: RickerBilly</item>
-		<item>XenonHD Blue :: RickerBilly</item>
-		<item>Xe :: RickerBilly</item>
-		<item>Element Xenon :: RickerBilly</item>
-		<item>Dark Xenon :: Dominik Horvath</item>
-		<item>Gold XenonHD :: wad3g</item>
-		<item>Xenon :: wad3g</item>
-		<item>Xenon :: wad3g</item>
-		<item>Gradient :: Dominik Horvath</item>
-		<item>XenonHD :: Dominik Horvath</item>
+    	        <item>Black Tile</item>
+		<item>Black Android Tile</item>
+		<item>Black Droid</item>
+       		<item>Android Marble</item>
+                <item>Dual Android</item>
+                <item>Feather</item>
+                <item>Color Ribbon</item>
+                <item>Grey Wallpaper</item>
+                <item>Busted Glass</item>
+		<item>Caution</item>
     </string-array>
 </resources>
