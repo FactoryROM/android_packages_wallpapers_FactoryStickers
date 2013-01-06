@@ -21,6 +21,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := XenonWallpapers
+LOCAL_PACKAGE_NAME := FactoryStickers
 
 include $(BUILD_PACKAGE)
